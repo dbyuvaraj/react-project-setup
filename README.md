@@ -14,19 +14,7 @@ React Project Setup.
 
 ---
 
-## Initial Setup
-
-#### package.json
-
-Create package.json file with necessary metadata information  
-
-`npm init`
-
-and provide necessary required informations.
-
----
-
-## Install Development Dependencies
+## Install Dependencies
 
 `npm install` or `yarn install` or `pnpm install` 
 
