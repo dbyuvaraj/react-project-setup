@@ -24,7 +24,7 @@ React Project Setup.
 
 ### Configure Webpack with all loaders and plugins
 
-`Refer:  webpack.config.js file` 
+`Refer:  webpack.*.config.js file` 
 
 ### Configure Babel
 
